@@ -1,3 +1,8 @@
+/*
+  	By : Neeraj Sharma
+   	Roll no. : 19HCS4037
+   	Description : A program to perform operator overloading on Polynomials class
+*/
 #include<iostream>
 using namespace std;
 
